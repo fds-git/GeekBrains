@@ -1,0 +1,4 @@
+[1115/193415.130:ERROR:process_info.cc(329)] VirtualQueryEx: Отказано в доступе. (0x5)
+[1115/193415.133:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1115/193415.133:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[1115/193415.133:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)

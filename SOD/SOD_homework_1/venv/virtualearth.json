@@ -1,0 +1,227 @@
+{
+    "authenticationResultCode": "ValidCredentials",
+    "brandLogoUri": "http://dev.virtualearth.net/Branding/logo_powered_by.png",
+    "copyright": "Copyright © 2019 Microsoft and its suppliers. All rights reserved. This API cannot be accessed and the content and any results may not be used, reproduced or transmitted in any manner without express written permission from Microsoft Corporation.",
+    "resourceSets": [
+        {
+            "estimatedTotal": 5,
+            "resources": [
+                {
+                    "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "bbox": [
+                        39.09455871582031,
+                        -94.46009826660156,
+                        39.13167190551758,
+                        -94.42453002929688
+                    ],
+                    "name": "64054, MO",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.107879638671875,
+                            -94.44003295898438
+                        ]
+                    },
+                    "address": {
+                        "adminDistrict": "MO",
+                        "adminDistrict2": "Jackson County",
+                        "countryRegion": "United States",
+                        "formattedAddress": "64054, MO",
+                        "locality": "Independence",
+                        "postalCode": "64054"
+                    },
+                    "confidence": "Medium",
+                    "entityType": "Postcode1",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                39.107879638671875,
+                                -94.44003295898438
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ],
+                    "matchCodes": [
+                        "UpHierarchy"
+                    ]
+                },
+                {
+                    "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "bbox": [
+                        44.765350341796875,
+                        -74.00646209716797,
+                        44.92839050292969,
+                        -73.79109191894531
+                    ],
+                    "name": "12934, NY",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            44.89115524291992,
+                            -73.84102630615234
+                        ]
+                    },
+                    "address": {
+                        "adminDistrict": "NY",
+                        "adminDistrict2": "Clinton County",
+                        "countryRegion": "United States",
+                        "formattedAddress": "12934, NY",
+                        "locality": "Ellenburg Center",
+                        "postalCode": "12934"
+                    },
+                    "confidence": "Medium",
+                    "entityType": "Postcode1",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                44.89115524291992,
+                                -73.84102630615234
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ],
+                    "matchCodes": [
+                        "UpHierarchy"
+                    ]
+                },
+                {
+                    "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "bbox": [
+                        42.607120513916016,
+                        -73.89459228515625,
+                        42.76259994506836,
+                        -73.7021713256836
+                    ],
+                    "name": "122, NY",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            42.69010925292969,
+                            -73.80364227294922
+                        ]
+                    },
+                    "address": {
+                        "adminDistrict": "NY",
+                        "countryRegion": "United States",
+                        "formattedAddress": "122, NY",
+                        "postalCode": "122"
+                    },
+                    "confidence": "Medium",
+                    "entityType": "Postcode2",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                42.69010925292969,
+                                -73.80364227294922
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ],
+                    "matchCodes": [
+                        "UpHierarchy"
+                    ]
+                },
+                {
+                    "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "bbox": [
+                        43.97272872924805,
+                        -0.14047999680042267,
+                        44.76539993286133,
+                        1.078220009803772
+                    ],
+                    "name": "Lot-et-Garonne",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            44.36795425415039,
+                            0.460781991481781
+                        ]
+                    },
+                    "address": {
+                        "adminDistrict": "Nouvelle-Aquitaine",
+                        "adminDistrict2": "Lot-et-Garonne",
+                        "countryRegion": "France",
+                        "formattedAddress": "Lot-et-Garonne"
+                    },
+                    "confidence": "Low",
+                    "entityType": "AdminDivision2",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                44.36795425415039,
+                                0.460781991481781
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ],
+                    "matchCodes": [
+                        "Ambiguous",
+                        "UpHierarchy"
+                    ]
+                },
+                {
+                    "__type": "Location:http://schemas.microsoft.com/search/local/ws/rest/v1",
+                    "bbox": [
+                        8.961790084838867,
+                        -74.9483871459961,
+                        11.351289749145508,
+                        -73.54997253417969
+                    ],
+                    "name": "47, Colombia",
+                    "point": {
+                        "type": "Point",
+                        "coordinates": [
+                            10.242335319519043,
+                            -74.26173400878906
+                        ]
+                    },
+                    "address": {
+                        "adminDistrict": "MA",
+                        "countryRegion": "Colombia",
+                        "formattedAddress": "47, Colombia",
+                        "locality": "Santa Marta",
+                        "postalCode": "47"
+                    },
+                    "confidence": "Low",
+                    "entityType": "Postcode2",
+                    "geocodePoints": [
+                        {
+                            "type": "Point",
+                            "coordinates": [
+                                10.242335319519043,
+                                -74.26173400878906
+                            ],
+                            "calculationMethod": "Rooftop",
+                            "usageTypes": [
+                                "Display"
+                            ]
+                        }
+                    ],
+                    "matchCodes": [
+                        "Ambiguous",
+                        "UpHierarchy"
+                    ]
+                }
+            ]
+        }
+    ],
+    "statusCode": 200,
+    "statusDescription": "OK",
+    "traceId": "f849d8c5bb9340e6a1fda99f6502bcff|BN000021CB|7.7.0.0|Ref A: ECF993AC3BB34B1CA91F9EBD5BF85CC3 Ref B: BN3EDGE0712 Ref C: 2019-10-20T10:03:44Z"
+}
