@@ -1,0 +1,473 @@
+2020-01-25 23:52:52,218 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-25 23:52:52,220 DEBUG client.py Подключение к серверу произведено успешно
+2020-01-25 23:52:52,220 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-25 23:52:52,221 DEBUG client.py Отправлено presence сообщение серверу
+2020-01-25 23:52:52,221 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-25 23:53:57,368 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-25 23:53:57,370 DEBUG client.py Подключение к серверу произведено успешно
+2020-01-25 23:53:57,371 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-25 23:53:57,371 DEBUG client.py Отправлено presence сообщение серверу
+2020-01-25 23:53:57,372 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-25 23:54:33,019 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-25 23:54:33,020 DEBUG client.py Подключение к серверу произведено успешно
+2020-01-25 23:54:33,021 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-25 23:54:33,021 DEBUG client.py Отправлено presence сообщение серверу
+2020-01-25 23:54:33,021 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-26 10:09:57,436 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 10:09:57,438 DEBUG client.py Подключение к серверу произведено успешно
+2020-01-26 10:09:57,438 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 10:09:57,438 DEBUG client.py Отправлено presence сообщение серверу
+2020-01-26 10:09:57,439 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-26 10:12:21,745 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 10:12:21,746 DEBUG client.py Подключение к серверу произведено успешно
+2020-01-26 10:12:21,747 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 10:12:21,747 DEBUG client.py Отправлено presence сообщение серверу
+2020-01-26 10:12:21,747 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-26 10:12:41,143 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 10:12:41,145 DEBUG client.py Подключение к серверу произведено успешно
+2020-01-26 10:12:41,145 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 10:12:41,145 DEBUG client.py Отправлено presence сообщение серверу
+2020-01-26 10:12:41,146 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-26 10:20:12,423 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 10:20:12,425 DEBUG client.py Подключение к серверу произведено успешно
+2020-01-26 10:20:12,425 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 10:20:12,425 DEBUG client.py Отправлено presence сообщение серверу
+2020-01-26 10:20:12,426 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-26 10:20:52,927 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 10:20:52,928 DEBUG client.py Подключение к серверу произведено успешно
+2020-01-26 10:20:52,929 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 10:20:52,929 DEBUG client.py Отправлено presence сообщение серверу
+2020-01-26 10:20:52,930 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-26 10:25:42,721 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 10:25:42,723 DEBUG client.py Подключение к серверу произведено успешно
+2020-01-26 10:25:42,723 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 10:25:42,724 DEBUG client.py Отправлено presence сообщение серверу
+2020-01-26 10:25:42,724 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-26 10:27:49,447 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 10:27:49,449 DEBUG client.py Подключение к серверу произведено успешно
+2020-01-26 10:27:49,449 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 10:27:49,450 DEBUG client.py Отправлено presence сообщение серверу
+2020-01-26 10:27:49,450 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-26 10:35:57,656 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 10:35:57,659 DEBUG client.py Подключение к серверу произведено успешно
+2020-01-26 10:35:57,659 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 10:35:57,660 DEBUG client.py Отправлено presence сообщение серверу
+2020-01-26 10:35:57,660 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-26 10:50:57,381 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 11:15:16,905 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 11:16:16,877 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 11:16:16,879 DEBUG client.py Подключение к серверу произведено успешно
+2020-01-26 11:16:16,879 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 11:16:16,880 DEBUG client.py Отправлено presence сообщение серверу
+2020-01-26 11:16:16,880 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-26 11:17:49,440 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 11:17:49,442 DEBUG client.py Подключение к серверу произведено успешно
+2020-01-26 11:17:49,442 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 11:17:49,442 DEBUG client.py Отправлено presence сообщение серверу
+2020-01-26 11:17:49,443 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-26 11:21:38,792 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 11:21:38,793 DEBUG client.py Подключение к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 11:21:38,794 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 11:21:38,794 DEBUG client.py Отправлено presence сообщение серверу
+2020-01-26 11:21:38,795 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-26 11:22:38,465 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 11:22:38,467 DEBUG client.py Подключение клиента ('127.0.0.1', 58662) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 11:22:38,468 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 11:22:38,468 DEBUG client.py Отправлено presence сообщение серверу
+2020-01-26 11:22:38,469 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-26 11:24:32,338 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 11:24:32,341 DEBUG client.py Подключение клиента ('127.0.0.1', 58668) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 11:24:32,341 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 11:24:32,342 DEBUG client.py Отправлено presence сообщение серверу
+2020-01-26 11:24:32,342 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-26 11:27:50,969 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 11:27:50,972 DEBUG client.py Подключение клиента ('127.0.0.1', 58673) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 11:27:50,972 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 11:27:50,972 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 58673) серверу ('127.0.0.1', 7777)
+2020-01-26 11:27:50,973 DEBUG client.py Получен ответ от сервера: 200 : OK
+2020-01-26 11:29:05,741 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 11:29:05,743 DEBUG client.py Подключение клиента ('127.0.0.1', 58676) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 11:29:05,744 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 11:29:05,744 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 58676) серверу ('127.0.0.1', 7777)
+2020-01-26 11:29:05,744 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-26 11:30:55,533 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 11:30:55,535 DEBUG client.py Подключение клиента ('127.0.0.1', 58678) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 11:30:55,535 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 11:30:55,535 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 58678) серверу ('127.0.0.1', 7777)
+2020-01-26 11:30:55,536 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-26 19:26:05,585 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 19:26:05,587 DEBUG client.py Подключение клиента ('127.0.0.1', 59306) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 19:26:05,587 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 19:26:05,587 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 59306) серверу ('127.0.0.1', 7777)
+2020-01-26 19:26:05,588 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-26 19:34:46,847 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 19:34:46,849 DEBUG client.py Подключение клиента ('127.0.0.1', 59320) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 19:34:46,849 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 19:34:46,849 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 59320) серверу ('127.0.0.1', 7777)
+2020-01-26 19:34:46,850 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-26 19:34:46,850 DEBUG client.py Клиент ('127.0.0.1', 59320) отключен от сервера ('127.0.0.1', 7777)
+2020-01-26 19:37:09,710 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 19:37:09,712 DEBUG client.py Подключение клиента ('127.0.0.1', 59325) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 19:37:09,713 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 19:37:09,713 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 59325) серверу ('127.0.0.1', 7777)
+2020-01-26 19:37:09,714 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-26 19:37:09,714 DEBUG client.py Клиент ('127.0.0.1', 59325) отключен от сервера ('127.0.0.1', 7777)
+2020-01-26 20:10:38,858 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 20:10:38,860 DEBUG client.py Подключение клиента ('127.0.0.1', 59471) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 20:10:38,860 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 20:10:38,861 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 59471) серверу ('127.0.0.1', 7777)
+2020-01-26 20:10:38,861 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-26 20:10:38,862 DEBUG client.py Клиент ('127.0.0.1', 59471) отключен от сервера ('127.0.0.1', 7777)
+2020-01-26 20:37:41,004 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 20:37:41,006 DEBUG client.py Подключение клиента ('127.0.0.1', 59524) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 20:37:41,006 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 20:37:41,007 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 59524) серверу ('127.0.0.1', 7777)
+2020-01-26 20:37:41,007 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-26 20:37:41,008 DEBUG client.py Клиент ('127.0.0.1', 59524) отключен от сервера ('127.0.0.1', 7777)
+2020-01-26 21:00:42,630 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 21:00:42,639 DEBUG client.py Подключение клиента ('127.0.0.1', 59598) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 21:00:42,639 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 21:00:42,640 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 59598) серверу ('127.0.0.1', 7777)
+2020-01-26 21:00:42,641 CRITICAL client.py Не удалось декодировать сообщение сервера ('127.0.0.1', 7777)
+2020-01-26 21:00:42,641 DEBUG client.py Клиент ('127.0.0.1', 59598) отключен от сервера ('127.0.0.1', 7777)
+2020-01-26 21:06:35,288 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 21:06:35,290 DEBUG client.py Подключение клиента ('127.0.0.1', 59611) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 21:06:35,291 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 21:08:44,935 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 21:08:44,937 DEBUG client.py Подключение клиента ('127.0.0.1', 59614) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 21:08:44,937 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 21:08:44,938 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 59614) серверу ('127.0.0.1', 7777)
+2020-01-26 21:08:44,938 ERROR client.py Аргумент функции должен быть словарём
+2020-01-26 21:08:44,938 DEBUG client.py Клиент ('127.0.0.1', 59614) отключен от сервера ('127.0.0.1', 7777)
+2020-01-26 21:10:17,569 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 21:10:17,571 DEBUG client.py Подключение клиента ('127.0.0.1', 59617) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 21:10:17,571 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 21:10:17,571 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 59617) серверу ('127.0.0.1', 7777)
+2020-01-26 21:10:17,572 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-26 21:10:17,572 DEBUG client.py Клиент ('127.0.0.1', 59617) отключен от сервера ('127.0.0.1', 7777)
+2020-01-26 21:11:11,187 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 21:11:11,188 DEBUG client.py Подключение клиента ('127.0.0.1', 59620) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 21:11:11,189 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 21:11:11,189 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 59620) серверу ('127.0.0.1', 7777)
+2020-01-26 21:11:11,189 ERROR client.py В ответе сервера отсутствует необходимое поле response
+2020-01-26 21:11:11,190 DEBUG client.py Клиент ('127.0.0.1', 59620) отключен от сервера ('127.0.0.1', 7777)
+2020-01-26 21:12:08,138 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 21:12:08,140 DEBUG client.py Подключение клиента ('127.0.0.1', 59621) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 21:12:08,140 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 21:12:08,140 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 59621) серверу ('127.0.0.1', 7777)
+2020-01-26 21:12:08,141 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-26 21:12:08,141 DEBUG client.py Клиент ('127.0.0.1', 59621) отключен от сервера ('127.0.0.1', 7777)
+2020-01-26 21:15:26,476 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 21:15:26,478 DEBUG client.py Подключение клиента ('127.0.0.1', 59667) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 21:15:26,478 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 21:15:26,478 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 59667) серверу ('127.0.0.1', 7777)
+2020-01-26 21:15:26,479 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-26 21:15:26,479 DEBUG client.py Клиент ('127.0.0.1', 59667) отключен от сервера ('127.0.0.1', 7777)
+2020-01-26 21:55:26,582 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-26 21:55:26,584 DEBUG client.py Подключение клиента ('127.0.0.1', 59815) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-26 21:55:26,584 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-26 21:55:26,585 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 59815) серверу ('127.0.0.1', 7777)
+2020-01-26 21:55:26,585 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-26 21:55:26,585 DEBUG client.py Клиент ('127.0.0.1', 59815) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 21:24:14,683 ERROR client.py Неправильные параметры, будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 21:24:14,685 DEBUG client.py Подключение клиента ('127.0.0.1', 50601) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 21:24:14,686 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 21:24:14,686 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 50601) серверу ('127.0.0.1', 7777)
+2020-01-29 21:24:14,687 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 21:24:14,687 DEBUG client.py Клиент ('127.0.0.1', 50601) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 21:30:00,846 DEBUG decorators.py Была вызвана функция launch c параметрами ('', 7777), {}. Вызов из модуля __main__
+2020-01-29 21:30:40,834 DEBUG decorators.py Была вызвана функция validate_ip c параметрами ('127.0.0.1',), {}. Вызов из модуля common.metods
+2020-01-29 21:30:40,836 DEBUG decorators.py Была вызвана функция launch c параметрами ('127.0.0.1', 7777), {}. Вызов из модуля __main__
+2020-01-29 21:33:04,253 DEBUG decorators.py Была вызвана функция validate_ip c параметрами ('127.0.0.1',), {}. Вызов из модуля common.metods
+2020-01-29 21:33:04,254 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 21:33:04,256 DEBUG decorators.py Была вызвана функция connect c параметрами ('127.0.0.1', 7777), {}. Вызов из модуля __main__
+2020-01-29 21:33:04,256 DEBUG client.py Подключение клиента ('127.0.0.1', 50625) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 21:33:04,256 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 21:33:04,256 DEBUG decorators.py Была вызвана функция make_presence c параметрами (), {}. Вызов из модуля __main__
+2020-01-29 21:33:04,257 DEBUG decorators.py Была вызвана функция send_message c параметрами ({'action': 'presence', 'time': 1580322784.2567086, 'user': {'account_name': 'Guest', 'status': 'online'}}, <socket.socket fd=376, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50625), raddr=('127.0.0.1', 7777)>), {}. Вызов из модуля common.metods
+2020-01-29 21:33:04,257 DEBUG decorators.py Была вызвана функция get_message c параметрами (<socket.socket fd=448, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50625)>,), {}. Вызов из модуля common.metods
+2020-01-29 21:33:04,257 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 50625) серверу ('127.0.0.1', 7777)
+2020-01-29 21:33:04,257 DEBUG decorators.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1580322784.2567086, 'user': {'account_name': 'Guest', 'status': 'online'}},), {}. Вызов из модуля __main__
+2020-01-29 21:33:04,258 DEBUG decorators.py Была вызвана функция get_message c параметрами (<socket.socket fd=376, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50625), raddr=('127.0.0.1', 7777)>,), {}. Вызов из модуля common.metods
+2020-01-29 21:33:04,258 DEBUG decorators.py Была вызвана функция send_message c параметрами ({'response': 200}, <socket.socket fd=448, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50625)>), {}. Вызов из модуля common.metods
+2020-01-29 21:33:04,258 DEBUG decorators.py Была вызвана функция process_ans c параметрами ({'response': 200},), {}. Вызов из модуля __main__
+2020-01-29 21:33:04,258 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 21:33:04,258 DEBUG client.py Клиент ('127.0.0.1', 50625) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 21:43:09,370 DEBUG decorators.py Была вызвана функция validate_ip c параметрами ('127.0.0.1',), {}. Вызов из модуля common.metods
+2020-01-29 21:43:09,372 DEBUG decorators.py Была вызвана функция launch c параметрами ('127.0.0.1', 7777), {}. Вызов из модуля __main__
+2020-01-29 21:43:18,495 DEBUG decorators.py Была вызвана функция validate_ip c параметрами ('127.0.0.1',), {}. Вызов из модуля common.metods
+2020-01-29 21:43:18,495 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 21:43:18,497 DEBUG decorators.py Была вызвана функция connect c параметрами ('127.0.0.1', 7777), {}. Вызов из модуля __main__
+2020-01-29 21:43:18,497 DEBUG client.py Подключение клиента ('127.0.0.1', 50692) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 21:43:18,497 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 21:43:18,497 DEBUG decorators.py Была вызвана функция make_presence c параметрами (), {}. Вызов из модуля __main__
+2020-01-29 21:43:18,498 DEBUG decorators.py Была вызвана функция send_message c параметрами ({'action': 'presence', 'time': 1580323398.4971876, 'user': {'account_name': 'Guest', 'status': 'online'}}, <socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50692), raddr=('127.0.0.1', 7777)>), {}. Вызов из модуля common.metods
+2020-01-29 21:43:18,498 DEBUG decorators.py Была вызвана функция get_message c параметрами (<socket.socket fd=452, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50692)>,), {}. Вызов из модуля common.metods
+2020-01-29 21:43:18,498 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 50692) серверу ('127.0.0.1', 7777)
+2020-01-29 21:43:18,498 DEBUG decorators.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1580323398.4971876, 'user': {'account_name': 'Guest', 'status': 'online'}},), {}. Вызов из модуля __main__
+2020-01-29 21:43:18,498 DEBUG decorators.py Была вызвана функция send_message c параметрами ({'response': 200}, <socket.socket fd=452, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50692)>), {}. Вызов из модуля common.metods
+2020-01-29 21:43:18,498 DEBUG decorators.py Была вызвана функция get_message c параметрами (<socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50692), raddr=('127.0.0.1', 7777)>,), {}. Вызов из модуля common.metods
+2020-01-29 21:43:18,499 DEBUG decorators.py Была вызвана функция process_ans c параметрами ({'response': 200},), {}. Вызов из модуля __main__
+2020-01-29 21:43:18,499 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 21:43:18,499 DEBUG client.py Клиент ('127.0.0.1', 50692) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 21:47:52,229 DEBUG decorators.py Была вызвана функция validate_ip c параметрами ('127.0.0.1',), {} из модуля common.metods
+2020-01-29 21:47:52,231 DEBUG decorators.py Была вызвана функция launch c параметрами ('127.0.0.1', 7777), {} из модуля __main__
+2020-01-29 21:47:56,505 DEBUG decorators.py Была вызвана функция validate_ip c параметрами ('127.0.0.1',), {} из модуля common.metods
+2020-01-29 21:47:56,506 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 21:47:56,507 DEBUG decorators.py Была вызвана функция connect c параметрами ('127.0.0.1', 7777), {} из модуля __main__
+2020-01-29 21:47:56,508 DEBUG client.py Подключение клиента ('127.0.0.1', 50706) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 21:47:56,508 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 21:47:56,508 DEBUG decorators.py Была вызвана функция make_presence c параметрами (), {} из модуля __main__
+2020-01-29 21:47:56,508 DEBUG decorators.py Была вызвана функция get_message c параметрами (<socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50706)>,), {} из модуля common.metods
+AM, proto=0, laddr=('127.0.0.1', 50706), raddr=('127.0.0.1', 7777)>), {} из модуля common.metods
+2020-01-29 21:47:56,509 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 50706) серверу ('127.0.0.1', 7777)
+2020-01-29 21:47:56,509 DEBUG decorators.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1580323676.508105, 'user': {'account_name': 'Guest', 'status': 'online'}},), {} из модуля __main__
+2020-01-29 21:47:56,509 DEBUG decorators.py Была вызвана функция send_message c параметрами ({'response': 200}, <socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50706)>), {} из модуля common.metods
+2020-01-29 21:47:56,509 DEBUG decorators.py Была вызвана функция get_message c параметрами (<socket.socket fd=348, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50706), raddr=('127.0.0.1', 7777)>,), {} из модуля common.metods
+2020-01-29 21:47:56,510 DEBUG decorators.py Была вызвана функция process_ans c параметрами ({'response': 200},), {} из модуля __main__
+2020-01-29 21:47:56,510 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 21:47:56,510 DEBUG client.py Клиент ('127.0.0.1', 50706) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 22:32:33,996 DEBUG decorators.py Была вызвана функция validate_ip c параметрами ('127.0.0.1',), {} из модуля common.metods :::: D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 22:32:33,998 DEBUG decorators.py Была вызвана функция launch c параметрами ('127.0.0.1', 7777), {} из модуля __main__ :::: D:/PyProjects/client_serv_python/homework_6/server.py
+2020-01-29 22:32:39,057 DEBUG decorators.py Была вызвана функция validate_ip c параметрами ('127.0.0.1',), {} из модуля common.metods :::: D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 22:32:39,057 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 22:32:39,059 DEBUG decorators.py Была вызвана функция connect c параметрами ('127.0.0.1', 7777), {} из модуля __main__ :::: D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 22:32:39,059 DEBUG client.py Подключение клиента ('127.0.0.1', 50998) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 22:32:39,059 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 22:32:39,059 DEBUG decorators.py Была вызвана функция make_presence c параметрами (), {} из модуля __main__ :::: D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 22:32:39,060 DEBUG decorators.py Была вызвана функция send_message c параметрами ({'action': 'presence', 'time': 1580326359.0590932, 'user': {'account_name': 'Guest', 'status': 'online'}}, <socket.socket fd=392, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50998), raddr=('127.0.0.1', 7777)>), {} из модуля common.metods :::: D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 22:32:39,060 DEBUG decorators.py Была вызвана функция get_message c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50998)>,), {} из модуля common.metods :::: D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 22:32:39,060 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 50998) серверу ('127.0.0.1', 7777)
+2020-01-29 22:32:39,060 DEBUG decorators.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1580326359.0590932, 'user': {'account_name': 'Guest', 'status': 'online'}},), {} из модуля __main__ :::: D:/PyProjects/client_serv_python/homework_6/server.py
+2020-01-29 22:32:39,060 DEBUG decorators.py Была вызвана функция send_message c параметрами ({'response': 200}, <socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50998)>), {} из модуля common.metods :::: D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 22:32:39,060 DEBUG decorators.py Была вызвана функция get_message c параметрами (<socket.socket fd=392, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50998), raddr=('127.0.0.1', 7777)>,), {} из модуля common.metods :::: D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 22:32:39,061 DEBUG decorators.py Была вызвана функция process_ans c параметрами ({'response': 200},), {} из модуля __main__ :::: D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 22:32:39,061 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 22:32:39,061 DEBUG client.py Клиент ('127.0.0.1', 50998) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 22:43:04,427 DEBUG decorators.py Была вызвана функция validate_ip c параметрами ('127.0.0.1',), {} из модуля common.metods файла D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 22:43:04,428 DEBUG decorators.py Была вызвана функция launch c параметрами ('127.0.0.1', 7777), {} из модуля __main__ файла D:/PyProjects/client_serv_python/homework_6/server.py
+2020-01-29 22:43:07,833 DEBUG decorators.py Была вызвана функция validate_ip c параметрами ('127.0.0.1',), {} из модуля common.metods файла D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 22:43:07,833 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 22:43:07,835 DEBUG decorators.py Была вызвана функция connect c параметрами ('127.0.0.1', 7777), {} из модуля __main__ файла D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 22:43:07,835 DEBUG client.py Подключение клиента ('127.0.0.1', 51082) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 22:43:07,835 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 22:43:07,835 DEBUG decorators.py Была вызвана функция make_presence c параметрами (), {} из модуля __main__ файла D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 22:43:07,836 DEBUG decorators.py Была вызвана функция send_message c параметрами ({'action': 'presence', 'time': 1580326987.8350143, 'user': {'account_name': 'Guest', 'status': 'online'}}, <socket.socket fd=376, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51082), raddr=('127.0.0.1', 7777)>), {} из модуля common.metods файла D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 22:43:07,836 DEBUG decorators.py Была вызвана функция get_message c параметрами (<socket.socket fd=388, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51082)>,), {} из модуля common.metods файла D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 22:43:07,836 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 51082) серверу ('127.0.0.1', 7777)
+2020-01-29 22:43:07,836 DEBUG decorators.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1580326987.8350143, 'user': {'account_name': 'Guest', 'status': 'online'}},), {} из модуля __main__ файла D:/PyProjects/client_serv_python/homework_6/server.py
+2020-01-29 22:43:07,836 DEBUG decorators.py Была вызвана функция send_message c параметрами ({'response': 200}, <socket.socket fd=388, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51082)>), {} из модуля common.metods файла D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 22:43:07,836 DEBUG decorators.py Была вызвана функция get_message c параметрами (<socket.socket fd=376, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51082), raddr=('127.0.0.1', 7777)>,), {} из модуля common.metods файла D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 22:43:07,837 DEBUG decorators.py Была вызвана функция process_ans c параметрами ({'response': 200},), {} из модуля __main__ файла D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 22:43:07,837 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 22:43:07,837 DEBUG client.py Клиент ('127.0.0.1', 51082) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 22:48:17,854 DEBUG decorators.py Вызвана функция validate_ip c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 22:48:17,855 DEBUG decorators.py Вызвана функция launch c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__
+2020-01-29 22:48:20,803 DEBUG decorators.py Вызвана функция validate_ip c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 22:48:20,803 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 22:48:20,805 DEBUG decorators.py Вызвана функция connect c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__
+2020-01-29 22:48:20,805 DEBUG client.py Подключение клиента ('127.0.0.1', 51097) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 22:48:20,805 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 22:48:20,806 DEBUG decorators.py Вызвана функция make_presence c параметрами (), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__
+2020-01-29 22:48:20,806 DEBUG decorators.py Вызвана функция send_message c параметрами ({'action': 'presence', 'time': 1580327300.8054335, 'user': {'account_name': 'Guest', 'status': 'online'}}, <socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51097), raddr=('127.0.0.1', 7777)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 22:48:20,806 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 51097) серверу ('127.0.0.1', 7777)
+2020-01-29 22:48:20,806 DEBUG decorators.py Вызвана функция get_message c параметрами (<socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51097)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 22:48:20,807 DEBUG decorators.py Вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1580327300.8054335, 'user': {'account_name': 'Guest', 'status': 'online'}},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__
+2020-01-29 22:48:20,807 DEBUG decorators.py Вызвана функция get_message c параметрами (<socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51097), raddr=('127.0.0.1', 7777)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 22:48:20,807 DEBUG decorators.py Вызвана функция send_message c параметрами ({'response': 200}, <socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51097)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 22:48:20,808 DEBUG decorators.py Вызвана функция process_ans c параметрами ({'response': 200},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__
+2020-01-29 22:48:20,808 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 22:48:20,809 DEBUG client.py Клиент ('127.0.0.1', 51097) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 22:57:30,255 DEBUG decorators.py Вызвана функция validate_ip c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: @log
+def validate_ip(ip_addr):
+    '''Функция проверяет является ли выражение возможным IP адресом'''
+    ip_addr = ip_addr.split('.')
+    if len(ip_addr) != 4:
+        return False
+    for addr_part in ip_addr:
+        if not addr_part.isdigit():
+            return False
+        addr_part = int(addr_part)
+        if addr_part < 0 or addr_part > 255:
+            return False
+    return True
+
+2020-01-29 22:57:30,258 DEBUG decorators.py Вызвана функция launch c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__::: @log
+def launch(listen_address, listen_port):
+    '''Функция запуска сервера'''
+    serv_sock = socket(AF_INET, SOCK_STREAM)
+    serv_sock.bind((listen_address, listen_port))
+    serv_sock.listen(MAX_CONNECTIONS)
+    return serv_sock
+
+2020-01-29 23:02:17,054 DEBUG decorators.py Вызвана функция validate_ip c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: main
+2020-01-29 23:02:17,056 DEBUG decorators.py Вызвана функция launch c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__::: main
+2020-01-29 23:02:29,276 DEBUG decorators.py Вызвана функция validate_ip c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: main
+2020-01-29 23:02:29,276 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 23:02:29,279 DEBUG decorators.py Вызвана функция connect c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__::: main
+2020-01-29 23:02:29,279 DEBUG client.py Подключение клиента ('127.0.0.1', 51151) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 23:02:29,279 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 23:02:29,280 DEBUG decorators.py Вызвана функция make_presence c параметрами (), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__::: main
+2020-01-29 23:02:29,282 DEBUG decorators.py Вызвана функция send_message c параметрами ({'action': 'presence', 'time': 1580328149.2797704, 'user': {'account_name': 'Guest', 'status': 'online'}}, <socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51151), raddr=('127.0.0.1', 7777)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: main
+2020-01-29 23:02:29,282 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 51151) серверу ('127.0.0.1', 7777)
+2020-01-29 23:02:29,283 DEBUG decorators.py Вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1580328149.2797704, 'user': {'account_name': 'Guest', 'status': 'online'}},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__::: main
+2020-01-29 23:02:29,284 DEBUG decorators.py Вызвана функция send_message c параметрами ({'response': 200}, <socket.socket fd=352, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51151)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: main
+2020-01-29 23:02:29,285 DEBUG decorators.py Вызвана функция get_message c параметрами (<socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51151), raddr=('127.0.0.1', 7777)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: main
+2020-01-29 23:02:29,286 DEBUG decorators.py Вызвана функция process_ans c параметрами ({'response': 200},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__::: main
+2020-01-29 23:02:29,286 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 23:02:29,287 DEBUG client.py Клиент ('127.0.0.1', 51151) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 23:14:48,371 DEBUG decorators.py Вызвана функция validate_ip c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: func_logger
+2020-01-29 23:14:48,373 DEBUG decorators.py Вызвана функция launch c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__::: func_logger
+2020-01-29 23:14:52,354 DEBUG decorators.py Вызвана функция validate_ip c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: func_logger
+2020-01-29 23:14:52,354 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 23:14:52,357 DEBUG decorators.py Вызвана функция connect c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__::: func_logger
+2020-01-29 23:14:52,358 DEBUG client.py Подключение клиента ('127.0.0.1', 51170) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 23:14:52,358 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 23:14:52,359 DEBUG decorators.py Вызвана функция make_presence c параметрами (), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__::: func_logger
+2020-01-29 23:14:52,360 DEBUG decorators.py Вызвана функция send_message c параметрами ({'action': 'presence', 'time': 1580328892.3583703, 'user': {'account_name': 'Guest', 'status': 'online'}}, <socket.socket fd=404, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51170), raddr=('127.0.0.1', 7777)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: func_logger
+2020-01-29 23:14:52,360 DEBUG decorators.py Вызвана функция get_message c параметрами (<socket.socket fd=352, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51170)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: func_logger
+2020-01-29 23:14:52,361 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 51170) серверу ('127.0.0.1', 7777)
+2020-01-29 23:14:52,362 DEBUG decorators.py Вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1580328892.3583703, 'user': {'account_name': 'Guest', 'status': 'online'}},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__::: func_logger
+2020-01-29 23:14:52,363 DEBUG decorators.py Вызвана функция send_message c параметрами ({'response': 200}, <socket.socket fd=352, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51170)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: func_logger
+2020-01-29 23:14:52,363 DEBUG decorators.py Вызвана функция get_message c параметрами (<socket.socket fd=404, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51170), raddr=('127.0.0.1', 7777)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: func_logger
+2020-01-29 23:14:52,364 DEBUG decorators.py Вызвана функция process_ans c параметрами ({'response': 200},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__::: func_logger
+2020-01-29 23:14:52,364 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 23:14:52,365 DEBUG client.py Клиент ('127.0.0.1', 51170) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 23:16:26,751 DEBUG decorators.py Вызвана функция validate_ip c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: 67
+2020-01-29 23:16:26,753 DEBUG decorators.py Вызвана функция launch c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__::: 82
+2020-01-29 23:16:30,246 DEBUG decorators.py Вызвана функция validate_ip c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: 56
+2020-01-29 23:16:30,246 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 23:16:30,248 DEBUG decorators.py Вызвана функция connect c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__::: 76
+2020-01-29 23:16:30,249 DEBUG client.py Подключение клиента ('127.0.0.1', 51172) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 23:16:30,249 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 23:16:30,250 DEBUG decorators.py Вызвана функция make_presence c параметрами (), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__::: 86
+2020-01-29 23:16:30,251 DEBUG decorators.py Вызвана функция send_message c параметрами ({'action': 'presence', 'time': 1580328990.249283, 'user': {'account_name': 'Guest', 'status': 'online'}}, <socket.socket fd=356, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51172), raddr=('127.0.0.1', 7777)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: 86
+2020-01-29 23:16:30,252 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 51172) серверу ('127.0.0.1', 7777)
+2020-01-29 23:16:30,253 DEBUG decorators.py Вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1580328990.249283, 'user': {'account_name': 'Guest', 'status': 'online'}},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__::: 96
+2020-01-29 23:16:30,255 DEBUG decorators.py Вызвана функция send_message c параметрами ({'response': 200}, <socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51172)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: 97
+2020-01-29 23:16:30,255 DEBUG decorators.py Вызвана функция get_message c параметрами (<socket.socket fd=356, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51172), raddr=('127.0.0.1', 7777)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: 90
+2020-01-29 23:16:30,256 DEBUG decorators.py Вызвана функция process_ans c параметрами ({'response': 200},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__::: 90
+2020-01-29 23:16:30,256 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 23:16:30,256 DEBUG client.py Клиент ('127.0.0.1', 51172) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 23:16:52,251 DEBUG decorators.py Вызвана функция validate_ip c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: D:/PyProjects/client_serv_python/homework_6/server.py
+2020-01-29 23:16:52,254 DEBUG decorators.py Вызвана функция launch c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__::: D:/PyProjects/client_serv_python/homework_6/server.py
+2020-01-29 23:16:56,126 DEBUG decorators.py Вызвана функция validate_ip c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 23:16:56,127 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 23:16:56,129 DEBUG decorators.py Вызвана функция connect c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__::: D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 23:16:56,130 DEBUG client.py Подключение клиента ('127.0.0.1', 51174) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 23:16:56,130 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 23:16:56,131 DEBUG decorators.py Вызвана функция make_presence c параметрами (), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__::: D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 23:16:56,133 DEBUG decorators.py Вызвана функция get_message c параметрами (<socket.socket fd=364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51174)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: D:/PyProjects/client_serv_python/homework_6/server.py
+2020-01-29 23:16:56,133 DEBUG decorators.py Вызвана функция send_message c параметрами ({'action': 'presence', 'time': 1580329016.130742, 'user': {'account_name': 'Guest', 'status': 'online'}}, <socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51174), raddr=('127.0.0.1', 7777)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 23:16:56,133 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 51174) серверу ('127.0.0.1', 7777)
+2020-01-29 23:16:56,134 DEBUG decorators.py Вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1580329016.130742, 'user': {'account_name': 'Guest', 'status': 'online'}},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__::: D:/PyProjects/client_serv_python/homework_6/server.py
+2020-01-29 23:16:56,136 DEBUG decorators.py Вызвана функция send_message c параметрами ({'response': 200}, <socket.socket fd=364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51174)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: D:/PyProjects/client_serv_python/homework_6/server.py
+2020-01-29 23:16:56,136 DEBUG decorators.py Вызвана функция get_message c параметрами (<socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51174), raddr=('127.0.0.1', 7777)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 23:16:56,137 DEBUG decorators.py Вызвана функция process_ans c параметрами ({'response': 200},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__::: D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 23:16:56,137 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 23:16:56,138 DEBUG client.py Клиент ('127.0.0.1', 51174) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 23:17:48,343 DEBUG decorators.py Вызвана функция validate_ip c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: main
+2020-01-29 23:17:48,346 DEBUG decorators.py Вызвана функция launch c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__::: main
+2020-01-29 23:17:51,421 DEBUG decorators.py Вызвана функция validate_ip c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: main
+2020-01-29 23:17:51,421 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 23:17:51,424 DEBUG decorators.py Вызвана функция connect c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__::: main
+2020-01-29 23:17:51,424 DEBUG client.py Подключение клиента ('127.0.0.1', 51177) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 23:17:51,424 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 23:17:51,425 DEBUG decorators.py Вызвана функция make_presence c параметрами (), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__::: main
+2020-01-29 23:17:51,427 DEBUG decorators.py Вызвана функция send_message c параметрами ({'action': 'presence', 'time': 1580329071.4247506, 'user': {'account_name': 'Guest', 'status': 'online'}}, <socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51177), raddr=('127.0.0.1', 7777)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: main
+2020-01-29 23:17:51,427 DEBUG decorators.py Вызвана функция get_message c параметрами (<socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51177)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: main
+2020-01-29 23:17:51,427 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 51177) серверу ('127.0.0.1', 7777)
+2020-01-29 23:17:51,429 DEBUG decorators.py Вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1580329071.4247506, 'user': {'account_name': 'Guest', 'status': 'online'}},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__::: main
+2020-01-29 23:17:51,430 DEBUG decorators.py Вызвана функция send_message c параметрами ({'response': 200}, <socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51177)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: main
+2020-01-29 23:17:51,430 DEBUG decorators.py Вызвана функция get_message c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51177), raddr=('127.0.0.1', 7777)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods::: main
+2020-01-29 23:17:51,431 DEBUG decorators.py Вызвана функция process_ans c параметрами ({'response': 200},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__::: main
+2020-01-29 23:17:51,432 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 23:17:51,432 DEBUG client.py Клиент ('127.0.0.1', 51177) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 23:26:57,612 DEBUG decorators.py Вызвана функция validate_ip из функции main c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 23:26:57,614 DEBUG decorators.py Вызвана функция launch из функции main c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__
+2020-01-29 23:27:00,411 DEBUG decorators.py Вызвана функция validate_ip из функции main c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 23:27:00,411 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 23:27:00,414 DEBUG decorators.py Вызвана функция connect из функции main c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__
+2020-01-29 23:27:00,414 DEBUG client.py Подключение клиента ('127.0.0.1', 55767) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 23:27:00,414 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 23:27:00,415 DEBUG decorators.py Вызвана функция make_presence из функции main c параметрами (), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__
+2020-01-29 23:27:00,416 DEBUG decorators.py Вызвана функция send_message из функции main c параметрами ({'action': 'presence', 'time': 1580329620.4141586, 'user': {'account_name': 'Guest', 'status': 'online'}}, <socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55767), raddr=('127.0.0.1', 7777)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 23:27:00,417 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 55767) серверу ('127.0.0.1', 7777)
+2020-01-29 23:27:00,417 DEBUG decorators.py Вызвана функция get_message из функции main c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55767)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 23:27:00,418 DEBUG decorators.py Вызвана функция process_client_message из функции main c параметрами ({'action': 'presence', 'time': 1580329620.4141586, 'user': {'account_name': 'Guest', 'status': 'online'}},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__
+2020-01-29 23:27:00,420 DEBUG decorators.py Вызвана функция send_message из функции main c параметрами ({'response': 200}, <socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55767)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 23:27:00,420 DEBUG decorators.py Вызвана функция get_message из функции main c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55767), raddr=('127.0.0.1', 7777)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 23:27:00,421 DEBUG decorators.py Вызвана функция process_ans из функции main c параметрами ({'response': 200},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__
+2020-01-29 23:27:00,421 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 23:27:00,422 DEBUG client.py Клиент ('127.0.0.1', 55767) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 23:27:30,827 DEBUG decorators.py Вызвана функция validate_ip из функции D:/PyProjects/client_serv_python/homework_6/server.py c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 23:27:30,829 DEBUG decorators.py Вызвана функция launch из функции D:/PyProjects/client_serv_python/homework_6/server.py c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__
+2020-01-29 23:27:33,994 DEBUG decorators.py Вызвана функция validate_ip из функции D:/PyProjects/client_serv_python/homework_6/client.py c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 23:27:33,994 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 23:27:33,997 DEBUG decorators.py Вызвана функция connect из функции D:/PyProjects/client_serv_python/homework_6/client.py c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__
+2020-01-29 23:27:33,997 DEBUG client.py Подключение клиента ('127.0.0.1', 55773) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 23:27:33,997 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 23:27:33,998 DEBUG decorators.py Вызвана функция make_presence из функции D:/PyProjects/client_serv_python/homework_6/client.py c параметрами (), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__
+2020-01-29 23:27:34,000 DEBUG decorators.py Вызвана функция get_message из функции D:/PyProjects/client_serv_python/homework_6/server.py c параметрами (<socket.socket fd=392, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55773)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+�а в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 23:27:34,000 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 55773) серверу ('127.0.0.1', 7777)
+2020-01-29 23:27:34,001 DEBUG decorators.py Вызвана функция process_client_message из функции D:/PyProjects/client_serv_python/homework_6/server.py c параметрами ({'action': 'presence', 'time': 1580329653.9970653, 'user': {'account_name': 'Guest', 'status': 'online'}},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__
+2020-01-29 23:27:34,003 DEBUG decorators.py Вызвана функция send_message из функции D:/PyProjects/client_serv_python/homework_6/server.py c параметрами ({'response': 200}, <socket.socket fd=392, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55773)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 23:27:34,005 DEBUG decorators.py Вызвана функция process_ans из функции D:/PyProjects/client_serv_python/homework_6/client.py c параметрами ({'response': 200},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__
+2020-01-29 23:27:34,005 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 23:27:34,006 DEBUG client.py Клиент ('127.0.0.1', 55773) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 23:29:08,149 DEBUG decorators.py Вызвана функция validate_ip из функции main c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 23:29:08,152 DEBUG decorators.py Вызвана функция launch из функции main c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__
+2020-01-29 23:29:11,566 DEBUG decorators.py Вызвана функция validate_ip из функции main c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 23:29:11,566 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 23:29:11,569 DEBUG decorators.py Вызвана функция connect из функции main c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__
+2020-01-29 23:29:11,569 DEBUG client.py Подключение клиента ('127.0.0.1', 55777) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 23:29:11,569 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 23:29:11,570 DEBUG decorators.py Вызвана функция make_presence из функции main c параметрами (), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__
+2020-01-29 23:29:11,572 DEBUG decorators.py Вызвана функция get_message из функции main c параметрами (<socket.socket fd=328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55777)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 23:29:11,572 DEBUG decorators.py Вызвана функция send_message из функции main c параметрами ({'action': 'presence', 'time': 1580329751.5698106, 'user': {'account_name': 'Guest', 'status': 'online'}}, <socket.socket fd=356, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55777), raddr=('127.0.0.1', 7777)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 23:29:11,572 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 55777) серверу ('127.0.0.1', 7777)
+2020-01-29 23:29:11,573 DEBUG decorators.py Вызвана функция process_client_message из функции main c параметрами ({'action': 'presence', 'time': 1580329751.5698106, 'user': {'account_name': 'Guest', 'status': 'online'}},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py модуля __main__
+2020-01-29 23:29:11,574 DEBUG decorators.py Вызвана функция send_message из функции main c параметрами ({'response': 200}, <socket.socket fd=328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55777)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 23:29:11,574 DEBUG decorators.py Вызвана функция get_message из функции main c параметрами (<socket.socket fd=356, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55777), raddr=('127.0.0.1', 7777)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py модуля common.metods
+2020-01-29 23:29:11,575 DEBUG decorators.py Вызвана функция process_ans из функции main c параметрами ({'response': 200},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py модуля __main__
+2020-01-29 23:29:11,576 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 23:29:11,576 DEBUG client.py Клиент ('127.0.0.1', 55777) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 23:33:09,604 DEBUG decorators.py Вызвана функция validate_ip из функции main c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 23:33:09,606 DEBUG decorators.py Вызвана функция launch из функции main c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py
+2020-01-29 23:33:12,575 DEBUG decorators.py Вызвана функция validate_ip из функции main c параметрами ('127.0.0.1',), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 23:33:12,575 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 23:33:12,578 DEBUG decorators.py Вызвана функция connect из функции main c параметрами ('127.0.0.1', 7777), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 23:33:12,578 DEBUG client.py Подключение клиента ('127.0.0.1', 55787) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 23:33:12,579 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 23:33:12,580 DEBUG decorators.py Вызвана функция make_presence из функции main c параметрами (), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 23:33:12,582 DEBUG decorators.py Вызвана функция get_message из функции main c параметрами (<socket.socket fd=352, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55787)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 23:33:12,582 DEBUG decorators.py Вызвана функция send_message из функции main c параметрами ({'action': 'presence', 'time': 1580329992.5780864, 'user': {'account_name': 'Guest', 'status': 'online'}}, <socket.socket fd=356, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55787), raddr=('127.0.0.1', 7777)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 23:33:12,582 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 55787) серверу ('127.0.0.1', 7777)
+2020-01-29 23:33:12,583 DEBUG decorators.py Вызвана функция process_client_message из функции main c параметрами ({'action': 'presence', 'time': 1580329992.5780864, 'user': {'account_name': 'Guest', 'status': 'online'}},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/server.py
+2020-01-29 23:33:12,585 DEBUG decorators.py Вызвана функция send_message из функции main c параметрами ({'response': 200}, <socket.socket fd=352, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55787)>), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 23:33:12,585 DEBUG decorators.py Вызвана функция get_message из функции main c параметрами (<socket.socket fd=356, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55787), raddr=('127.0.0.1', 7777)>,), {} описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py
+2020-01-29 23:33:12,586 DEBUG decorators.py Вызвана функция process_ans из функции main c параметрами ({'response': 200},), {} описана в файле D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 23:33:12,587 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 23:33:12,587 DEBUG client.py Клиент ('127.0.0.1', 55787) отключен от сервера ('127.0.0.1', 7777)
+2020-01-29 23:38:35,548 DEBUG decorators.py Функция validate_ip, описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.pyвызвана с параметрами ('127.0.0.1',), {} из функции main,описанной в файле main
+2020-01-29 23:38:35,551 DEBUG decorators.py Функция launch, описана в файле D:/PyProjects/client_serv_python/homework_6/server.pyвызвана с параметрами ('127.0.0.1', 7777), {} из функции main,описанной в файле main
+2020-01-29 23:39:20,836 DEBUG decorators.py Функция validate_ip, описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py, вызвана с параметрами ('127.0.0.1',), {} из функции main, описанной в файле main
+2020-01-29 23:39:20,840 DEBUG decorators.py Функция launch, описана в файле D:/PyProjects/client_serv_python/homework_6/server.py, вызвана с параметрами ('127.0.0.1', 7777), {} из функции main, описанной в файле main
+2020-01-29 23:39:41,814 DEBUG decorators.py Функция validate_ip, описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py, вызвана с параметрами ('127.0.0.1',), {} из функции main, описанной в файле D:/PyProjects/client_serv_python/homework_6/server.py
+2020-01-29 23:39:41,817 DEBUG decorators.py Функция launch, описана в файле D:/PyProjects/client_serv_python/homework_6/server.py, вызвана с параметрами ('127.0.0.1', 7777), {} из функции main, описанной в файле D:/PyProjects/client_serv_python/homework_6/server.py
+2020-01-29 23:40:47,433 DEBUG decorators.py Функция validate_ip, описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py, вызвана с параметрами ('127.0.0.1',), {} из функции main, описанной в файле D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 23:40:47,434 DEBUG client.py Будет произведено подключение к 127.0.0.1: 7777
+2020-01-29 23:40:47,438 DEBUG decorators.py Функция connect, описана в файле D:/PyProjects/client_serv_python/homework_6/client.py, вызвана с параметрами ('127.0.0.1', 7777), {} из функции main, описанной в файле D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 23:40:47,438 DEBUG client.py Подключение клиента ('127.0.0.1', 55804) к серверу ('127.0.0.1', 7777) произведено успешно
+2020-01-29 23:40:47,438 DEBUG client.py Сформировано presence сообщение от пользователя Guest
+2020-01-29 23:40:47,440 DEBUG decorators.py Функция make_presence, описана в файле D:/PyProjects/client_serv_python/homework_6/client.py, вызвана с параметрами (), {} из функции main, описанной в файле D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 23:40:47,442 DEBUG decorators.py Функция send_message, описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py, вызвана с параметрами ({'action': 'presence', 'time': 1580330447.4384964, 'user': {'account_name': 'Guest', 'status': 'online'}}, <socket.socket fd=356, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55804), raddr=('127.0.0.1', 7777)>), {} из функции main, описанной в файле D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 23:40:47,443 DEBUG client.py Отправлено presence сообщение клиентом ('127.0.0.1', 55804) серверу ('127.0.0.1', 7777)
+2020-01-29 23:40:47,443 DEBUG decorators.py Функция get_message, описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py, вызвана с параметрами (<socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55804)>,), {} из функции main, описанной в файле D:/PyProjects/client_serv_python/homework_6/server.py
+2020-01-29 23:40:47,445 DEBUG decorators.py Функция process_client_message, описана в файле D:/PyProjects/client_serv_python/homework_6/server.py, вызвана с параметрами ({'action': 'presence', 'time': 1580330447.4384964, 'user': {'account_name': 'Guest', 'status': 'online'}},), {} из функции main, описанной в файле D:/PyProjects/client_serv_python/homework_6/server.py
+2020-01-29 23:40:47,448 DEBUG decorators.py Функция get_message, описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py, вызвана с параметрами (<socket.socket fd=356, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55804), raddr=('127.0.0.1', 7777)>,), {} из функции main, описанной в файле D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 23:40:47,448 DEBUG decorators.py Функция send_message, описана в файле D:\PyProjects\client_serv_python\homework_6\common\metods.py, вызвана с параметрами ({'response': 200}, <socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55804)>), {} из функции main, описанной в файле D:/PyProjects/client_serv_python/homework_6/server.py
+2020-01-29 23:40:47,450 DEBUG decorators.py Функция process_ans, описана в файле D:/PyProjects/client_serv_python/homework_6/client.py, вызвана с параметрами ({'response': 200},), {} из функции main, описанной в файле D:/PyProjects/client_serv_python/homework_6/client.py
+2020-01-29 23:40:47,450 DEBUG client.py Получен ответ от сервера ('127.0.0.1', 7777): 200 : OK
+2020-01-29 23:40:47,450 DEBUG client.py Клиент ('127.0.0.1', 55804) отключен от сервера ('127.0.0.1', 7777)

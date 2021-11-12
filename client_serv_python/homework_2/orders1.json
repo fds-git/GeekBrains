@@ -1,0 +1,46 @@
+{
+    "orders": [
+        {
+            "buyer": "Petrov V.A.",
+            "date": "17.02.2019",
+            "item": "Scanner",
+            "price": 13000,
+            "quantity": 10
+        },
+        {
+            "buyer": "Ivanov A.A.",
+            "date": "23.05.2019",
+            "item": "Printer",
+            "price": 7800,
+            "quantity": 7
+        },
+        {
+            "buyer": "Ivanov A.A.",
+            "date": "23.05.2019",
+            "item": "Printer",
+            "price": 7800,
+            "quantity": 7
+        },
+        {
+            "buyer": "Ivanoвап A.A.",
+            "date": "23.05.2019",
+            "item": "Printer",
+            "price": 7800,
+            "quantity": 7
+        },
+        {
+            "buyer": "Ivanov A.A.",
+            "date": "23.05.2019",
+            "item": "Принтер",
+            "price": 7800,
+            "quantity": 7
+        },
+        {
+            "buyer": "Петров В.А.",
+            "date": "17.02.2019",
+            "item": "Сканнер",
+            "price": 13000,
+            "quantity": 10
+        }
+    ]
+}
